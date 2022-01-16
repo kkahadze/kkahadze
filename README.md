@@ -1,4 +1,4 @@
-### Hello 😄
+### Hello! 😄
 
 My name is Konstantine, and I am currently a second-year student at University of Maryland, studying Computer Science and planning to graduate in Spring 2023.🎓
 - 🔭 I’m currently working on my Winter CS classes and personal projects. 
