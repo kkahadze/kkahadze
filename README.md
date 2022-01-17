@@ -5,8 +5,7 @@ I am currently a second-year student at University of Maryland, studying Compute
 - &nbsp; I’m currently working on my Winter CS classes and personal projects. 
 - &nbsp; I’m learning Networking and Git in my classes, and spending most of my time studying Reinforcement Learning outside of school.
 - &nbsp; Pronouns: He/Him
-
-
+  
 <h3> &nbsp;Tech Stack</h3>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -22,6 +21,7 @@ I am currently a second-year student at University of Maryland, studying Compute
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) &nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
+<div align="left">
 <p>
 <p>
 
@@ -37,3 +37,4 @@ I am currently a second-year student at University of Maryland, studying Compute
 <a href="https://www.linkedin.com/in/kahadze/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Konstantine%20Kahadze-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:konstantinekahadze@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-konstantinekahadze@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+</div>
