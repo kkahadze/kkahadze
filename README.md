@@ -31,7 +31,7 @@ I am currently a second-year student at University of Maryland, studying Compute
 <p>
 
 <br/>
-  <a href="https://github.com/AVS1508">
+  <a href="https://github.com/kkahadze">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kkahadze&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
 </p>
