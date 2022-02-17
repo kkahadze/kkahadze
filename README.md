@@ -2,8 +2,8 @@
 
 I am currently a second-year student at University of Maryland, studying Computer Science and planning to graduate in Spring 2023.
 
-- &nbsp; I’m currently working on my Winter CS classes and personal projects. 
-- &nbsp; I’m learning Networking and Git in my classes, and spending most of my time studying Reinforcement Learning outside of school.
+- &nbsp; I’m currently working on my Spring CS classes, personal projects while also doing peer tutoring at UMD. 
+- &nbsp; I’m learning Data Visualization and NLP in my classes.
 - &nbsp; Pronouns: He/Him
   
   
