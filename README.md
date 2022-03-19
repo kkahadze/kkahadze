@@ -1,10 +1,9 @@
-### Hey there! I'm Konstantine. 😄
+### Hey there! I'm Konstantine (he/him). 😄
 
 I am currently a second-year student at University of Maryland, studying Computer Science and planning to graduate in Spring 2023.
 
 - &nbsp; I’m currently working on my Spring CS classes, personal projects while also doing peer tutoring at UMD. 
 - &nbsp; I’m learning Data Visualization and NLP in my classes.
-- &nbsp; Pronouns: He/Him
   
   
   
